@@ -1,6 +1,6 @@
 # stock-analysis-
 Import Stock Prices in Python using yfinance
-1.importing yahoo finance as yf
++ 1.importing yahoo finance as yf
 + helps to visualize stock data
 + 2.taking stock as a variable
 + 3.downloading information for the stock price over nvidia
